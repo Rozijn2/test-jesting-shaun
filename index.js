@@ -1,6 +1,5 @@
 function calculateTotal(quantity,price) {
-    const total = quantity * price;
-    return total;
+    //WRITE ME
 }
 const saleTotal = calculateTotal(2,16.95);
 
